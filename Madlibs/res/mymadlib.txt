@@ -1,0 +1,12 @@
+Hi! I am professor <name>!
+Today I am going to talk about <noun>. Suppose that
+we are statistical consultants hired by a client to provide
+advice on how to improve sales of a particular <food>.
+
+The advertising data set consists of the sales of that product in <number>
+different markets, along with advertising budgets for the product in each
+of those markets for three different media: <noun>, <noun>, <noun>. Our client
+may control the <noun> expenditure in each of the three media. Therefore, if we
+determine that there is an association between <noun> and <noun>, then we can
+instruct our client to adjust advertising budgets, therby indirectly <verb>
+sales.
